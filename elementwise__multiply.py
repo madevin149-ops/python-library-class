@@ -1,0 +1,10 @@
+# Create two 1D arrays
+a = np.array([1, 2, 3, 4])
+b = np.array([5, 6, 7, 8])
+
+# Element-wise multiplication
+result = a * b
+
+# Display result
+print("Element-wise Multiplication:")
+print(result)
